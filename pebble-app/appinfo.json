@@ -3,6 +3,7 @@
   "shortName": "Classy Clock",
   "longName": "Classy Clock",
   "companyName": "{ float: both }",
+  "versionCode": "3",
   "versionLabel": "1.2",
   "capabilities": [ "configurable" ],
   "watchapp": {
